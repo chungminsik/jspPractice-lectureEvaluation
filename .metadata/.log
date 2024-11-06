@@ -10282,3 +10282,27 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-06 15:23:33.205
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\SpringToolSuite\sts-4.26.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=C:/Java project/lecture-jsp-practice/workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1730874213202
+-Dlanguageserver.hover-timeout=225
+-jar
+C:\SpringToolSuite\sts-4.26.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.58.0.202410160331\servers\spring-boot-language-server\spring-boot-language-server-1.58.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-06 15:23:33.207
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-06 15:23:33.213
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 48428
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-11-06 15:23:47.696
+!MESSAGE [Info]	ESLint server running in node v20.16.0
