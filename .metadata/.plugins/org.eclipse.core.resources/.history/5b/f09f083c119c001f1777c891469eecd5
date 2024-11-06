@@ -1,0 +1,13 @@
+package lectureEvaluation.user;
+
+public class Snippet {
+	public UserDto(String userId, String userPassword, String userEmail, String userEmailHash, boolean emailChecked) {
+			super();
+			this.userId = userId;
+			this.userPassword = userPassword;
+			this.userEmail = userEmail;
+			this.userEmailHash = userEmailHash;
+			this.emailChecked = emailChecked;
+		}
+}
+

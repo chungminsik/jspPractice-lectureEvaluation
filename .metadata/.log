@@ -10306,3 +10306,15 @@ END
 
 !ENTRY org.eclipse.lsp4e 1 0 2024-11-06 15:23:47.696
 !MESSAGE [Info]	ESLint server running in node v20.16.0
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-11-06 16:24:26.597
+!MESSAGE [Info]	ESLint server running in node v20.16.0
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-11-06 16:24:26.943
+!MESSAGE [Info]	Using Typescript version (user-setting) 5.5.4 from path "C:\SpringToolSuite\sts-4.26.0.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.2.3.202408270415\node_modules\typescript\lib\tsserver.js"
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-11-06 16:24:26.949
+!MESSAGE [Info]	Typescript Server version info: {version=5.5.4, source=user-setting}
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-11-06 16:27:47.121
+!MESSAGE [Info]	ESLint server running in node v20.16.0

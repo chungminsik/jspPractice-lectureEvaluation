@@ -1,0 +1,5 @@
+package lectureEvaluation.user;
+
+public class UserDto {
+
+}
