@@ -1,0 +1,5 @@
+package helloworld.user;
+
+public class UserDTO {
+
+}
